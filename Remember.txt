@@ -1,9 +1,1 @@
-hd0316005743
-
-740
-
-
-on resume of app, autostart status is updated in which
-autostartdetection services are starting again.
-Actual problem lies here.And you know that
-This is causing problem, even we pause trip, due to autostart it is starting again
+Hello world
